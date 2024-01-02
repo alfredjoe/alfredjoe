@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://alfredjoe.io)
-<h1 align="center">Hi 👋, I'm Alfred Joe Devasai</h1>
+<h1 align="center">Hi 👋, I'm Alfred Joe Devasia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
